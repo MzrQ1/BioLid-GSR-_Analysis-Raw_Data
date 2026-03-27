@@ -191,6 +191,7 @@ SCR（皮肤电导反应）是皮电信号中的"峰值"特征，表现为信号
 
 | 日期 | 版本 | 更新内容 |
 |------|------|----------|
+| 2025-03-27 | v1.3 | 清理被试文件夹中的处理后数据文件 |
 | 2025-03-27 | v1.2 | 上传项目到GitHub仓库 |
 | 2025-03-27 | v1.1 | 添加英文版README文档 |
 | 2025-03-27 | v1.0 | 初始版本，包含单文件分析和批量处理功能；添加data目录存放原始实验用户数据 |
@@ -347,6 +348,7 @@ Detection results include position, amplitude, and duration of each SCR, with pe
 
 | Date | Version | Updates |
 |------|---------|---------|
+| 2025-03-27 | v1.3 | Cleaned up processed data files from subject folders |
 | 2025-03-27 | v1.2 | Uploaded project to GitHub repository |
 | 2025-03-27 | v1.1 | Added English README documentation |
 | 2025-03-27 | v1.0 | Initial release with single file analysis and batch processing; added data directory for raw experimental user data |
