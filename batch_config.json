@@ -1,0 +1,27 @@
+{
+    "input_settings": {
+        "input_folder": "eda_data",
+        "file_pattern": "data_*.csv",
+        "recursive_search": false
+    },
+    "output_settings": {
+        "output_folder": "batch_eda_results",
+        "create_individual_plots": true,
+        "create_summary_report": true
+    },
+    "analysis_parameters": {
+        "sampling_frequency": 100,
+        "lowpass_cutoff": 0.1,
+        "scr_detection": {
+            "min_duration": 1.0,
+            "max_duration": 10.0,
+            "adaptive_threshold_factor": 0.3,
+            "min_threshold": 0.1
+        }
+    },
+    "visualization": {
+        "figure_size": [15, 12],
+        "dpi": 300,
+        "save_format": "png"
+    }
+}

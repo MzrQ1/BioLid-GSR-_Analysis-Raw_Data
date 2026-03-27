@@ -1,0 +1,26 @@
+# Python virtual environment
+eda_analysis_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Output results
+batch_eda_results/
+scl_analysis_per_minute.csv
+scl_scr_analysis_plot.png
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio files (optional - uncomment if you don't want to upload)
+# *.m4a
